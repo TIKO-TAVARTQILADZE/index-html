@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+ <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TikoTavartqiladze</title>
+    <link  rel="icon"  href="https://png.pngtree.com/element_our/20190530/ourmid/pngtree-correct-icon-image_1267804.jpg">
+ </head>
+ 
+  <body>
+    <header>
+      <nav>
+      <li>about</li>
+      <li>contact info</li>
+    <h1>
+    Briefly about me</h1>
+  <hr/>
+  <p>
+    I am a 22-year-old student of the last year of art studies. I love the renaissance period in painting. During this time, the most outstanding canvases were created.  
+  </p>
+  <img scr="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjEwNTQtMDEzXzEucG5n.png" alt="vector"/>
+  <a href="https://www.youtube.com/" target="blank">youtube </a>
+  <body>
+   <ul>
+    <li>first element</li>
+    <li>second element</li>
+   </ul>
+  
+<ol>
+  <li>first element</li>
+  <li>second element</li>
+</ol>
+  
